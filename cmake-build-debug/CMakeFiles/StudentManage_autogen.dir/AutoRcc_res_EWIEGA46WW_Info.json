@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/StudentManage_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage",
+	"CMAKE_SOURCE_DIR" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage",
+	"INCLUDE_DIR" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/StudentManage_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/image/background.png",
+		"D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/image/page_login.png"
+	],
+	"LOCK_FILE" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/StudentManage_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt6/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/StudentManage_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/res.qrc",
+	"VERBOSITY" : 0
+}

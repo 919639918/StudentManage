@@ -1,0 +1,9 @@
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/StudentManage.dir
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/list_install_components.dir
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/install.dir
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/install/local.dir
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/install/strip.dir
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/StudentManage_autogen_timestamp_deps.dir
+D:/Qt6Project/StudentManage-20221224T132850Z-001/StudentManage/cmake-build-debug/CMakeFiles/StudentManage_autogen.dir
